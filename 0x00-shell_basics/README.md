@@ -1,1 +1,1 @@
-command to print current work directory
+created script with listing command
